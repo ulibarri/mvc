@@ -3,7 +3,7 @@
     Class layoutController{
 
         public function loadLayoutController(){
-            include "views/layout.php"
+            include "views/layout.php";
         }
     }
 ?>
